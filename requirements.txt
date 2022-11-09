@@ -6,4 +6,4 @@ Jinja2
 MarkupSafe
 numpy
 Werkzeug
-opencv-python-headless==4.2.0.32
+opencv-python-headless
